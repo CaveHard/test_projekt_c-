@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Cpp/CLionProjects/tickets/AdminMenu.cpp
+iostream
+-
+cstdlib
+-
+AdminMenu.hpp
+C:/Cpp/CLionProjects/tickets/AdminMenu.hpp
+
+C:/Cpp/CLionProjects/tickets/AdminMenu.hpp
+
+C:/Cpp/CLionProjects/tickets/Headers/Schedule.hpp
+string
+-
+list
+-
+
+C:/Cpp/CLionProjects/tickets/main.cpp
+iostream
+-
+AdminMenu.cpp
+C:/Cpp/CLionProjects/tickets/AdminMenu.cpp
+./Headers/Schedule.hpp
+C:/Cpp/CLionProjects/tickets/Headers/Schedule.hpp
+
